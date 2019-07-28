@@ -1,3 +1,4 @@
+#codding is available for SQL attacK and use try...execpt to catch error or to return error.Please see your bro code of webscraping and my code.
 # Imports from python libraries
 from bs4 import BeautifulSoup
 import requests
